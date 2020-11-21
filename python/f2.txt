@@ -1,0 +1,4 @@
+harshit salary is 100
+Mohit salary is 50
+aaditya salary is 200
+Nitish salary is 500
